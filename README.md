@@ -3,3 +3,4 @@
 #### K-means
 #### Logistic_regression
 #### SVM
+#### GMM
