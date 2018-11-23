@@ -4,3 +4,4 @@
 #### Logistic_regression
 #### SVM
 #### GMM_EM
+#### HMM
